@@ -1,52 +1,35 @@
-# 📊 ALX Data Science Program
+# 📊 Querying Data Module – ALX Data Science
 
-Welcome to my data science journey through the **ALX Program** — where I’m learning by doing, exploring real-world datasets, and building meaningful projects. This repository serves as a **structured portfolio** showcasing my learning and practical skills.
+This module covers all SQL-related data querying concepts as part of the ALX Data Science Program.
 
----
+## 🗂️ Folder Structure
 
-## 🧠 Overview
+### 📌 8. Numeric Functions and Aggregations
+- SQL basics with numeric ops, summaries, and transformations
 
-This repo contains:
+### 📌 9. SQL Window Functions
+- Rank, dense_rank, row_number, partitioning, and aggregation over windows
 
-- 📚 Coursework & exercises from the ALX curriculum
-- 🔬 Data analysis and ML notebooks
-- 💼 Real-world mini-projects
-- 📁 Well-organized folders by topic
+### 📌 10. String, Date and Miscellaneous Functions
+- Data wrangling using string and date operations
 
----
+### 📌 11. SQL Control Flow
+- CASE, IF, nested conditions, control logic
 
+### 📌 13. SQL ERD Data Models
+- Entity-Relationship modeling and database schemas
 
+### 📌 14. SQL Joins and Sets
+- INNER, OUTER, CROSS joins, UNIONs
 
-## 🛠️ Tools & Technologies
+### 📌 15. Optimising Queries
+- Indexes, query plans, performance tuning
 
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- SQL
-- Jupyter Notebooks
-- Git & GitHub
+### 📌 16. SQL Views
+- Creating and querying views
 
----
+### 📌 17. SQL Normalisation
+- 1NF to 3NF normalization practices
 
-## Goals
-
-- ✅ Master the core data science pipeline (wrangling → analysis → ML)
-- ✅ Build 5+ data science projects by December 2025
-- ✅ Become job-ready for entry-level roles in DS, ML, or analytics
-
----
-
-
-
----
-
-## 📎 Connect with Me
-
-- GitHub: [@Musya-Lungi](https://github.com/Musya-Lungi)
-- LinkedIn: 
-- Twitter/X: https://x.com/MusyaLungi
-
----
-
-> _“Learning to extract meaning from data and transform insight into impact.”_
+### 🚀 Integrated Project
+- Clustering analysis on Maji Ndogo's water data
